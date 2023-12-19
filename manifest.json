@@ -1,0 +1,36 @@
+{
+  "index.css": {
+    "file": "assets/index.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "assets": [
+      "assets/databasepod.png",
+      "assets/logo1.png",
+      "assets/logo2.png",
+      "assets/me.png"
+    ],
+    "css": [
+      "assets/index.css"
+    ],
+    "file": "index.js",
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "src/assets/images/databasepod.png": {
+    "file": "assets/databasepod.png",
+    "src": "src/assets/images/databasepod.png"
+  },
+  "src/assets/images/logo1.png": {
+    "file": "assets/logo1.png",
+    "src": "src/assets/images/logo1.png"
+  },
+  "src/assets/images/logo2.png": {
+    "file": "assets/logo2.png",
+    "src": "src/assets/images/logo2.png"
+  },
+  "src/assets/images/me.png": {
+    "file": "assets/me.png",
+    "src": "src/assets/images/me.png"
+  }
+}
